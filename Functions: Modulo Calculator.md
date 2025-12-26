@@ -23,6 +23,7 @@ print("modulo is", result(a, b))
 ## Output
 
 <img width="675" height="329" alt="IMG7" src="https://github.com/user-attachments/assets/3dd04812-ae28-4082-b142-41a83bf9e336" />
+
 ## Result
 
 Thus,the Python program that defines a function which accepts two values and returns their modulo using the % operator is created successfully.
